@@ -1,3 +1,3 @@
 # dcx7c5.github.io
 
-## Private blog
+## Private blog for everything
