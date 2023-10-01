@@ -15,14 +15,51 @@ enableEmoji = true
   title = "DCx's Blog"
   description = "Welcome to DCx's Blog"
 
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+
+    [params.header.title]
+      logo = ""
+      name = "DCx's Blog"
+
+
+  [params.footer]
+    enable = true
+    custom = ""
+    hugo = false
+    copyright = true
+#    author = "asdasds"
+    since = 2023
+
+  [params.app]
+    title = "DCx's Blog"
+
+  [params.home]
+    
+    [params.home.profile]
+      enable = true
+      social = true
+      title = "DCx7c5"
+      subtitle = "Welcome to my blog"
+
+  [params.social]
+    GitHub = "DCx7c5"
+    Twitter = "dcx7c5"
+    Discord = "dcx7c5"
+
+
 [markup]
+
   [markup.highlight]
     codeFences = true
     guessSyntax = true
     lineNos = true
     lineNumbersInTable = true
     noClasses = false
+
   [markup.goldmark]
+
     [markup.goldmark.extensions]
       definitionList = true
       footnote = true
@@ -31,8 +68,10 @@ enableEmoji = true
       table = true
       taskList = true
       typographer = true
+
     [markup.goldmark.renderer]
       unsafe = true
+
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
