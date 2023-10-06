@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dcx7c5
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dcx7c5.github.io
+  * I am dcx7c5 (https://keybase.io/dcx7c5) on keybase.
+  * I have a public key ASBCfH4AEyfI24QoA9jkvaFamSau4VTAkOouhZGZ9LtmHgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f33257d950f8faa305a7accf7920d789d19b1c393e5176b464bcbb0eade68ed60a",
+      "host": "keybase.io",
+      "kid": "0120427c7e001327c8db842803d8e4bda15a9926aee154c090ea2e859199f4bb661e0a",
+      "uid": "de1f4c589aff0bdc8be7fed0728c5119",
+      "username": "dcx7c5"
+    },
+    "merkle_root": {
+      "ctime": 1696629639,
+      "hash": "3fb8f4db5e55dae69c0290572cd901e4e486b4f19b4e205b0d0a416072e6b3b547b80348d6b4645c4885bc29c1434ba37a4fff1f420c7abf8aad680e00a72f29",
+      "hash_meta": "88efda7c268c07a918fd8636e99f1537252d892c66f70f326f0f2a1f2457479f",
+      "seqno": 25004533
+    },
+    "service": {
+      "entropy": "ctn+r+pzO/K56Gjme5iQB1el",
+      "hostname": "dcx7c5.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1696629673,
+  "expire_in": 504576000,
+  "prev": "5a1756073fd9ad9bf153ca64d7745dffd15bfbe2185a0a3bd9818fe1d1c06b98",
+  "seqno": 90,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQnx+ABMnyNuEKAPY5L2hWpkmruFUwJDqLoWRmfS7Zh4Kp3BheWxvYWTESpcCWsQgWhdWBz/ZrZvxU8pk13Rd/9Fb++IYWgo72YGP4dHAa5jEILEcCwSaTaKMDJSc4kNkvqcJ35SOTkLubrK+BlN9fyghAgHCo3NpZ8RAC6m/ZeoBoBqiDA8ny7y4KODhX0T4tgf8QpX889+adIvMkUGzMaLhxSoLZy8hJNeicP7uD1ic5uRLLvAh4YGqB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMsevNs5ZgJYbTeWHkBFiVvNBdQMfuN0qqBdHEEebxsDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dcx7c5
+
+==================================================================
